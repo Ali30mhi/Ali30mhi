@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Ali30mhi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Ali30mhi/Ali30mhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi I'm Ali 👋
+
+
+Passionate coder  
+ Currently studying Software Development & Computer Engineering 
+ Exploring new technologies and sharpening my skills daily  
+
+Interested in
+ Collaborating on innovative tech projects  
+ Open-source contributions  
+ Problem-solving through code 
