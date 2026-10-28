@@ -1,6 +1,6 @@
 # Hi, I'm Ali 👋
 
-Student developer from Tehran. I like building small, polished tools —
+Student developer. I like building small, polished tools —
 mostly things that help students study better.
 
 - 🚀 Currently building **[Darsyar](https://ali30mhi.github.io/Darsyar/)** — a Persian study timer with streaks and shareable progress cards
