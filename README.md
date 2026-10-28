@@ -4,6 +4,7 @@ Student developer from Tehran. I like building small, polished tools —
 mostly things that help students study better.
 
 - 🚀 Currently building **[Darsyar](https://ali30mhi.github.io/Darsyar/)** — a Persian study timer with streaks and shareable progress cards
+- 🌍 Built a [live earthquake globe](https://ali30mhi.github.io/earthquake-globe/) with real USGS data and a home-made ESP32 seismic sensor
 - 🛠️ I work mostly with **C**, **Python** and **Java**, and enjoy low-level projects like interpreters
 - 🐧 Daily driver: Linux
 
@@ -11,6 +12,7 @@ mostly things that help students study better.
 
 | Project | What it is | Stack |
 |---|---|---|
+| [earthquake-globe](https://github.com/Ali30mhi/earthquake-globe) · [▶ live](https://ali30mhi.github.io/earthquake-globe/) | Real-time 3D earthquake globe with live USGS data, history since 1900, Persian/English, offline mode and a DIY ESP32 seismic sensor | JS · three.js · ESP32 |
 | [**Darsyar**](https://github.com/Ali30mhi/Darsyar) · [▶ live](https://ali30mhi.github.io/Darsyar/) | Persian study timer with streaks, a 12-week heatmap and share cards — one HTML file, no sign-up | HTML · CSS · JS |
 | [**Study-plan-generator**](https://github.com/Ali30mhi/Study-plan-generator) | Exam-aware study schedules with timed sessions and Google Calendar export | Python |
 | [**forth-interpreter**](https://github.com/Ali30mhi/forth-interpreter) | Forth interpreter with a small VM, colored REPL and turtle graphics in the terminal | C |
