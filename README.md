@@ -3,7 +3,7 @@
 Student developer building small, polished tools — mostly for students.
 I enjoy low-level work (interpreters, VMs) and mixing software with hardware.
 
-### 🌍 [Earthquake Globe](https://github.com/Ali30mhi/earthquake-globe) · [live demo](LINK)
+### 🌍 [Earthquake Globe](https://github.com/Ali30mhi/earthquake-globe) · [live demo](https://ali30mhi.github.io/earthquake-globe/)
 Real-time 3D globe of USGS earthquake data back to 1900, plus a home-made
 ESP32 seismic sensor. Persian/English, works offline.
 `JavaScript` `three.js` `ESP32`
@@ -26,4 +26,4 @@ in the terminal.
 - **[PomodoroTimer](https://github.com/Ali30mhi/PomodoroTimer)**: desktop Pomodoro app with stats, tray icon and rain sounds (Python · PySide6)
 
 **Tech:** C · Python · Java · JavaScript · Qt/PySide6 · Linux · Git
-📫 Reach me: EMAIL_OR_LINK
+🌐 [ali30mhi.github.io](https://ali30mhi.github.io/)
